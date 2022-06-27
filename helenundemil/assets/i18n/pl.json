@@ -1,0 +1,158 @@
+{
+    "appTitle": "Emil & Helen",
+    "menu": "Menu",
+    "challenges": "Zadania",
+    "setup": "Ustawienia",
+    "settings": "Ustawienia",
+    "welcome": "Cześć",
+    "warningSaveSettings": "Uwaga! Jeśli zmienisz ustawienia, wszystkie postępy zostaną wyczyszczone.",
+    "changeData": "Zmień dane",
+    "deleteData": "Usunąć dane",
+    "cancel": "Anulować",
+    "chooseLanguage": "Wybierz język",
+    "name_input": "Imię",
+    "name_empty": "Proszę wpisać swoje imię",
+    "save": "Zapisać",
+    "privacyPolicy": "Ochrona danych",
+    "qrCode": {
+      "menu_item": "Pokaż kod QR",
+      "own_qr_code": "Mój kod QR",
+      "description": "Ktoś wykonał zadanie? Następnie pokaż twój kod QR jako potwierdzenie."
+    },
+    "relationship": {
+      "label": "Przynależność: ",
+      "friend": "przyjaciel",
+      "familyEmil": "Rodzina Emila",
+      "familyHelen": "Rodzina Helen"
+    },
+    "partytable": {
+      "label": "Stól",
+      "one": "1",
+      "two": "2",
+      "three": "3",
+      "four": "4",
+      "five": "5",
+      "six": "6",
+      "seven": "7"
+    },
+    "buffet": {
+      "label": "Bufet",
+      "entree": {
+        "label": "Przystawki",
+        "text": {
+          "item1": "Półmisek rybny z filetem rybnym, wędzonym pstrągiem i wędzonym łososiem",
+          "item2": "Caprese z pesto verde",
+          "item3": "Smażone warzywa śródziemnomorskie",
+          "item4": "Kolorowy wybór sałatek"
+        }
+      },
+      "main": {
+        "label": "Danie główne",
+        "text": {
+          "item1": "Medaliony wieprzowe z kremowym sosem pieprzowym",
+          "item2": "Pierogi ruskie",
+          "item3": "Spiczaste papryczki wypełnione risotto z borowików na sosie pomidorowym",
+          "item4": "Kolorowe warzywa sezonowe, Spätzle, Ziemniaki z rozmarynem"
+        }
+      },
+      "desert": {
+        "label": "Deser",
+        "text": {
+          "item1": "Panna cotta z sosem malinowym",
+          "item2": "Krem kokosowo-mango z marakui i nasionami chia",
+          "item3": "Krem czekoladowy z galaretką z czerwonych owoców i migdałami"
+        }
+      }
+    },
+    "drinks": {
+      "label": "Napoje",
+      "normalDrinks": {
+        "label": "Napoje bezalkoholowe",
+        "text": {
+          "item1": "Woda gazowana, Woda gazowana medium, Woda mineralna",
+          "item2": "Coca-Cola, Light, Zero Fanta Orange Sprite",
+          "item3": "Sok jabłkowy",
+          "item4": "Sok pomarańczowy"
+        }
+      },
+      "beer": {
+        "label": "Piwo & Wino musujące",
+        "text": {
+          "item1": "Bitburger Pils z beczki",
+          "item2": "Bitburger Pils bezalkoholowy",
+          "item3": "Erdinger Hefeweizen jasne",
+          "item4": "Erdinger bezalkoholowy",
+          "item5": "Piwo słodowe",
+          "item6": "Cornaro, Prosecco",
+          "item7": "Caterina Bianco Frizzante"
+        }
+      },
+      "whiteWine": {
+        "label": "Wina białe",
+        "text": {
+          "item1": "Winiarnia Ellermann-Spiegel, Pinot Gris (wytrawne)",
+          "item2": "Winiarnia Ellermann-Spiegel, Rieslinga (wytrawne)"
+        }
+      },
+      "redWine": {
+        "label": "Wino czerwone",
+        "text": "Acanto Primitivo Puglia Ionis IGP (wytrawne, owocowe)"
+      },
+      "longDrinks": {
+        "label": "Long Drinks",
+        "moscowMule": {
+          "label": "Moscow Mule",
+          "text": "42 Below Vodka, Thomas Henry Spicy Ginger"
+        },
+        "ginTonic": {
+          "label": "Gin Tonic",
+          "text": "Bombay Sapphire Gin, Schweppes Indian Tonic"
+        },
+        "cubaLibre": {
+          "label": "Cuba Libre",
+          "text": "Bacardi Rum, Coca Cola, Limonki"
+        },
+        "malibuMaracuja": {
+          "label": "Malibu Marakuja",
+          "text": "Malibu Marakuja"
+        }
+      }
+    },
+    "challenge": {
+      "success": {
+        "title": "Rewelacja",
+        "text": "Zadanie zakończone pomyślnie! Tak trzymaj!"
+      },
+      "error": {
+        "title": "Błąd",
+        "text": "Niestety to nie wyszło."
+      },
+      "ok": "OK"
+    },
+    "quests": {
+      "guestbook": "Wpisz do księgi gości",
+      "takePic": "Drukuj zdjęce w stacji fotograficznej",
+      "eatweddingcake": "Wypróbuj tort weselny",
+      "traubbogenpic": "Srób zdjęce przy Łukiem ślubnym",
+      "dance": "Tańcz z kimś",
+      "learnWord": "Naucz się niemieckiego zdania",
+      "strangerpic": "Zrób zdjęcie z kimś, kogo dziś spotkałeś",
+      "lovepic": "Zrób zdjęcie komuś, kogo lubisz",
+      "talkpersona": "Poznaj kogoś z rodziny Helen",
+      "talkpersonb": "",
+      "talkpersonc": "Poznaj przyjaciela Emila i Heleny",
+      "dancepic": "Sfotografuj najlepszego tancerza w akcji",
+      "tablegrouppic": "Srób zdjęcie grupowe innego Stołu",
+      "tablegag": "Opowiedz stołu sąsiadów dobrego żarta",
+      "bestdancer": "Pozwól się wybrać na najlepszego tancerza",
+      "tabledrink": "Wypij coś z kimś z innego stołu",
+      "tiepic": "Zrób zdjęcie najpiękniejszej krawata lub muszki",
+      "dresspic": "Zrób zdjęcie najpiękniejszej sukienki",
+      "tabledessert": "Głosuj przy stole, który deser jest najlepszy",
+      "tablesong": "Dowiedz się, do której grupy muzycznej pochodzi tytuł tabeli",
+      "takePicTogether": "Zrób zabawne zdjęcie z kimś w stacji zdjęć",
+      "scanstrangeqr": "Skan°oj kod QR osoby, która nie korzysta z tej app",
+      "drinkemilhelen": "Pij z Emilem i Heleną",
+      "partyemilhelen": "Powiedz Emilowi i Helenie, jak fajna jest impreza"
+    }
+  }

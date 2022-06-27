@@ -1,0 +1,158 @@
+{
+    "appTitle": "Helen & Emil",
+    "menu": "Menü",
+    "challenges": "Aufgaben",
+    "setup": "Setup",
+    "settings": "Einstellungen",
+    "welcome": "Hallo",
+    "warningSaveSettings": "Achtung! Wenn du deine Einstellungen ändern möchtest, werden alle Fortschritte gelöscht.",
+    "changeData": "Daten ändern",
+    "deleteData": "Daten löschen",
+    "cancel": "Abbrechen",
+    "chooseLanguage": "Wähle eine Sprache",
+    "name_input": "Name",
+    "name_empty": "Bitte gib deinen Namen ein",
+    "save": "Speichern",
+    "privacyPolicy": "Datenschutzerklärung",
+    "qrCode": {
+      "menu_item": "QR Code anzeigen",
+      "own_qr_code": "Mein QR Code",
+      "description": "Warst du dabei als jemand eine Aufgabe erfüllt hat? Dann lass deinen QR Code als Bestätigung scannen."
+    },
+    "relationship": {
+      "label": "Zugehörigkeit: ",
+      "friend": "Freunde/Bekannte",
+      "familyEmil": "Emils Familie",
+      "familyHelen": "Helens Familie"
+    },
+    "partytable": {
+      "label": "Tisch ",
+      "one": "1",
+      "two": "2",
+      "three": "3",
+      "four": "4",
+      "five": "5",
+      "six": "6",
+      "seven": "7"
+    },
+    "buffet": {
+      "label": "Buffet",
+      "entree": {
+        "label": "Vorspeisen",
+        "text": {
+          "item1": "Fischplatte mit pochiertem Fischfilet, geräucherter Forelle und Räucherlachs",
+          "item2": "Caprese mit Pesto Verde",
+          "item3": "Mediterran gebratenes Gemüse",
+          "item4": "Bunte Auswahl an Salaten"
+        }
+      },
+      "main": {
+        "label": "Hauptgerichte",
+        "text": {
+          "item1": "Schweinemedaillons mit Pfefferrahm-Sauce",
+          "item2": "Pierogie Ruski (Kartoffelquarkfüllung)",
+          "item3": "Mit Steinpilzrisotto gefüllte Spitzpaprika auf Tomatensugo",
+          "item4": "Buntes, saisonales Gemüse, Spätzle, Rosmarinkartoffeln"
+        }
+      },
+      "desert": {
+        "label": "Deserts",
+        "text": {
+          "item1": "Panna Cotta mit Himbeersauce",
+          "item2": "Kokos-Mango Creme mit Passionsfrucht und Chiasamen",
+          "item3": "Schoko Creme mit roter Grütze und Mandeln"
+        }
+      }
+    },
+    "drinks": {
+      "label": "Getränke",
+      "normalDrinks": {
+        "label": "Alkoholfreie Getränke",
+        "text": {
+          "item1": "Mineralwasser Classic, Medium, Naturelle",
+          "item2": "Coca-Cola, Light, Zero Fanta Orange Sprite",
+          "item3": "Vaihinger Apfelsaft klar",
+          "item4": "Vaihinger Orangensaft"
+        }
+      },
+      "beer": {
+        "label": "Bier & Sekt",
+        "text": {
+          "item1": "Bitburger Pils vom Fass Bitburger",
+          "item2": "Pils alkoholfrei",
+          "item3": "Erdinger Hefeweizen Hell",
+          "item4": "Erdinger alkoholfrei",
+          "item5": "Kandi Malz",
+          "item6": "Cornaro, Prosecco",
+          "item7": "Caterina Bianco Frizzante, Italien (trocken)"
+        }
+      },
+      "whiteWine": {
+        "label": "Weißweine",
+        "text": {
+          "item1": "Weingut Ellermann-Spiegel, Pfalz, Grauburgunder, trocken",
+          "item2": "Weingut Ellermann-Spiegel, Pfalz, Riesling, trocken"
+        }
+      },
+      "redWine": {
+        "label": "Rotwein",
+        "text": "Acanto Primitivo Puglia Ionis IGP (trocken-fruchtig)"
+      },
+      "longDrinks": {
+        "label": "Long Drinks",
+        "moscowMule": {
+          "label": "Moscow Mule",
+          "text": "42 Below Vodka, Thomas Henry Spicy Ginger"
+        },
+        "ginTonic": {
+          "label": "Gin Tonic",
+          "text": "Bombay Sapphire Gin, Schweppes Indian Tonic"
+        },
+        "cubaLibre": {
+          "label": "Cuba Libre",
+          "text": "Bacardi Rum, Coca Cola, Limetten"
+        },
+        "malibuMaracuja": {
+          "label": "Malibu Maracuja",
+          "text": "Malibu Marcauja"
+        }
+      }
+    },
+    "challenge": {
+      "success": {
+        "title": "Super",
+        "text": "Aufgabe erfolgreich erledigt! Weiter so!"
+      },
+      "error": {
+        "title": "Fehler",
+        "text": "Leider hat das nicht geklappt."
+      },
+      "ok": "OK"
+    },
+    "quests": {
+      "guestbook": "Mach einen Gästebucheintrag",
+      "takePic": "Drucke ein Foto an der Fotostation aus",
+      "eatweddingcake": "Probiere von der Hochzeitstorte",
+      "traubbogenpic": "Mach ein Foto vor dem Traubogen",
+      "dance": "Tanz mit jemandem",
+      "learnWord": "Lerne einen polnischen Satz",
+      "strangerpic": "Mach ein Foto mit jemandem, den du heute kennen gelernt hast",
+      "lovepic": "Mach ein Foto mit jemandem, den du magst",
+      "talkpersona": "Lern jemanden aus Helens Familie kennen",
+      "talkpersonb": "Lern jemanden aus Emils Familie kennen",
+      "talkpersonc": "Lern jemanden von Emils und Helens Freunden kennen",
+      "dancepic": "Fotografiere den besten Tänzer in Aktion",
+      "tablegrouppic": "Mach ein Gruppenfoto eines anderen Tisches",
+      "tablegag": "Erzähle deinem Nachbartisch einen guten Witz",
+      "bestdancer": "Lass dich zum besten Tänzer kühren",
+      "tabledrink": "Stoße mit jemandem von einem anderen Tisch an",
+      "tiepic": "Mach ein Foto von der schönsten Krawatte oder Fliege",
+      "dresspic": "Mach ein Foto vom schönsten Kleid",
+      "tabledessert": "Stimmt am Tisch ab, welcher Nachtisch der beste ist",
+      "tablesong": "Findet am Tisch heraus, von welcher Band der Tischtitel ist",
+      "takePicTogether": "Mach ein lustiges Foto mit jemandem an der Fotostation",
+      "scanstrangeqr": "Scan den QR-Code einer Person, die die App nicht benutzt",
+      "drinkemilhelen": "Stoß mit Emil und Helen an",
+      "partyemilhelen": "Sag Emil und Helen wie geil die Party ist"
+    }
+  }
